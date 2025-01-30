@@ -78,7 +78,7 @@
         <mxCell id="0EsYlZYB2VsYlDsrYex--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0EsYlZYB2VsYlDsrYex--1" source="0EsYlZYB2VsYlDsrYex--27" target="0EsYlZYB2VsYlDsrYex--34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0EsYlZYB2VsYlDsrYex--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="0EsYlZYB2VsYlDsrYex--1" source="0EsYlZYB2VsYlDsrYex--31">
+        <mxCell id="0EsYlZYB2VsYlDsrYex--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="0EsYlZYB2VsYlDsrYex--1" source="0EsYlZYB2VsYlDsrYex--49">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1240" y="240" as="targetPoint" />
           </mxGeometry>
@@ -95,10 +95,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0EsYlZYB2VsYlDsrYex--43" value="Отмена бронирования" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0EsYlZYB2VsYlDsrYex--1">
-          <mxGeometry x="1170" y="225" width="80" height="30" as="geometry" />
+          <mxGeometry x="1140" y="180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0EsYlZYB2VsYlDsrYex--44" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=catching;symbol=message;" vertex="1" parent="0EsYlZYB2VsYlDsrYex--1">
-          <mxGeometry x="1100" y="212.5" width="50" height="50" as="geometry" />
+          <mxGeometry x="1150" y="212.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0EsYlZYB2VsYlDsrYex--45" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=catching;symbol=message;" vertex="1" parent="0EsYlZYB2VsYlDsrYex--1">
           <mxGeometry x="1025" y="290" width="50" height="50" as="geometry" />
@@ -108,6 +108,12 @@
         </mxCell>
         <mxCell id="0EsYlZYB2VsYlDsrYex--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.571;entryY=0.138;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0EsYlZYB2VsYlDsrYex--1" source="0EsYlZYB2VsYlDsrYex--46" target="0EsYlZYB2VsYlDsrYex--46">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsYlZYB2VsYlDsrYex--48" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=boundInt;symbol=error;" vertex="1" parent="0EsYlZYB2VsYlDsrYex--1">
+          <mxGeometry x="1090" y="210" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0EsYlZYB2VsYlDsrYex--49" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="0EsYlZYB2VsYlDsrYex--1">
+          <mxGeometry x="1220" y="210" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0EsYlZYB2VsYlDsrYex--2" value="Клиент" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=0;fillColor=none;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="9" y="1100" width="810" height="35" as="geometry" />
