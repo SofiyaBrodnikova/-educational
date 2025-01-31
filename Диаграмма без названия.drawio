@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Страница — 1" id="-8I3Ju_DQWI-anv-8iCS">
-    <mxGraphModel dx="2919" dy="2299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2570" dy="2111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -334,11 +334,11 @@
         <mxCell id="bJJzOUb5ZiV7AwPKgK84-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=0;dashed=1;startArrow=oval;startFill=0;" edge="1" parent="1" source="0EsYlZYB2VsYlDsrYex--13" target="bJJzOUb5ZiV7AwPKgK84-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bJJzOUb5ZiV7AwPKgK84-68" value="" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=0;fillColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="980" width="1690" height="70" as="geometry" />
+        <mxCell id="bJJzOUb5ZiV7AwPKgK84-68" value="" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=0;fillColor=#FFFFFF;whiteSpace=wrap;swimlaneFillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="977" width="1690" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bJJzOUb5ZiV7AwPKgK84-69" value="служба размещения" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1008" width="140" height="30" as="geometry" />
+          <mxGeometry x="610" y="1000" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bJJzOUb5ZiV7AwPKgK84-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=blockThin;endFill=0;startArrow=oval;startFill=0;" edge="1" parent="1" source="0EsYlZYB2VsYlDsrYex--34" target="bJJzOUb5ZiV7AwPKgK84-84">
           <mxGeometry relative="1" as="geometry" />
