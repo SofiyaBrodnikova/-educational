@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="300" width="1150" height="400" as="geometry" />
         </mxCell>
         <mxCell id="wJVDtzto6iilkjuluCDq-2" value="Туристическое агентство" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="690" width="1250" height="400" as="geometry" />
+          <mxGeometry x="-60" y="700" width="1320" height="400" as="geometry" />
         </mxCell>
         <mxCell id="wJVDtzto6iilkjuluCDq-4" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;" vertex="1" parent="wJVDtzto6iilkjuluCDq-2">
           <mxGeometry x="80" y="175" width="50" height="50" as="geometry" />
@@ -107,6 +107,23 @@
         </mxCell>
         <mxCell id="wJVDtzto6iilkjuluCDq-28" value="2 дня" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wJVDtzto6iilkjuluCDq-2">
           <mxGeometry x="715" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wJVDtzto6iilkjuluCDq-35" value="Клиент сделал выбрал?" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wJVDtzto6iilkjuluCDq-2">
+          <mxGeometry x="1020" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wJVDtzto6iilkjuluCDq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wJVDtzto6iilkjuluCDq-2" source="wJVDtzto6iilkjuluCDq-30" target="wJVDtzto6iilkjuluCDq-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1095" y="320" />
+              <mxPoint x="390" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wJVDtzto6iilkjuluCDq-37" value="Нет" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wJVDtzto6iilkjuluCDq-2">
+          <mxGeometry x="1090" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wJVDtzto6iilkjuluCDq-38" value="Да" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wJVDtzto6iilkjuluCDq-2">
+          <mxGeometry x="1120" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wJVDtzto6iilkjuluCDq-3" value="Туристический оператор" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="10" y="1100" width="1250" height="400" as="geometry" />
