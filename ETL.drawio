@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
+  <diagram name="Страница — 1" id="IJaZjBYfuuowqkLu1wL7">
+    <mxGraphModel dx="1042" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HoOeOvsZ0vhtHLq7tIih-2" value="Source Systems" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="60" width="230" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="HoOeOvsZ0vhtHLq7tIih-3" value="CRM" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="HoOeOvsZ0vhtHLq7tIih-2">
+          <mxGeometry x="17.5" y="40" width="195" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="HoOeOvsZ0vhtHLq7tIih-8" value="Продукты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HoOeOvsZ0vhtHLq7tIih-3">
+          <mxGeometry x="42.5" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HoOeOvsZ0vhtHLq7tIih-7" value="Заказы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HoOeOvsZ0vhtHLq7tIih-3">
+          <mxGeometry x="42.5" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HoOeOvsZ0vhtHLq7tIih-9" value="Возвраты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HoOeOvsZ0vhtHLq7tIih-3">
+          <mxGeometry x="42.5" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HoOeOvsZ0vhtHLq7tIih-4" value="Auth" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="HoOeOvsZ0vhtHLq7tIih-2">
+          <mxGeometry x="17.5" y="310" width="195" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HoOeOvsZ0vhtHLq7tIih-6" value="Пользователи" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HoOeOvsZ0vhtHLq7tIih-4">
+          <mxGeometry x="37.5" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HoOeOvsZ0vhtHLq7tIih-10" value="TC Primary Data Layer" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="60" width="230" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="HoOeOvsZ0vhtHLq7tIih-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="HoOeOvsZ0vhtHLq7tIih-10" source="HoOeOvsZ0vhtHLq7tIih-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HoOeOvsZ0vhtHLq7tIih-17" value="Продукты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HoOeOvsZ0vhtHLq7tIih-10">
+          <mxGeometry x="55" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HoOeOvsZ0vhtHLq7tIih-18" value="Продукты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HoOeOvsZ0vhtHLq7tIih-10">
+          <mxGeometry x="55" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HoOeOvsZ0vhtHLq7tIih-19" value="Продукты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HoOeOvsZ0vhtHLq7tIih-10">
+          <mxGeometry x="55" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HoOeOvsZ0vhtHLq7tIih-21" value="Продукты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HoOeOvsZ0vhtHLq7tIih-10">
+          <mxGeometry x="55" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HoOeOvsZ0vhtHLq7tIih-22" value="Продукты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HoOeOvsZ0vhtHLq7tIih-10">
+          <mxGeometry x="55" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HoOeOvsZ0vhtHLq7tIih-23" value="Продукты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HoOeOvsZ0vhtHLq7tIih-10">
+          <mxGeometry x="55" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
